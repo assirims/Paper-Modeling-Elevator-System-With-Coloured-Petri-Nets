@@ -9,3 +9,6 @@ Formal Specification, Elevator System, Software Specification Benchmarks, Colour
 ##
 This work was published at The 2015 International Conference on Software Engineering Research and Practice
 https://www.researchgate.net/publication/290325167_Modeling_Elevator_System_With_Coloured_Petri_Nets
+
+##
+Copyright (c) 2015, Mohammed Assiri All rights reserved.
